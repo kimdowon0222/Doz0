@@ -1,0 +1,18 @@
+{
+    "SOFA": {
+      "name": "소파",
+      "mid_code": "FUR_INT",
+      "mid_name": "가구/인테리어",
+      "top_code": "FUR",
+      "top_name": "가구",
+      "keywords": ["소파", "2인용", "가죽", "패브릭"]
+    },
+    "TV": {
+      "name": "TV",
+      "mid_code": "DIG_APPL",
+      "mid_name": "디지털가전",
+      "top_code": "DIG",
+      "top_name": "디지털",
+      "keywords": ["TV", "OLED", "4K"]
+    }
+  }
