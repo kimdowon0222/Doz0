@@ -1,18 +1,58 @@
 {
-    "SOFA": {
-      "name": "소파",
-      "mid_code": "FUR_INT",
-      "mid_name": "가구/인테리어",
-      "top_code": "FUR",
-      "top_name": "가구",
-      "keywords": ["소파", "2인용", "가죽", "패브릭"]
-    },
-    "TV": {
-      "name": "TV",
-      "mid_code": "DIG_APPL",
-      "mid_name": "디지털가전",
-      "top_code": "DIG",
-      "top_name": "디지털",
-      "keywords": ["TV", "OLED", "4K"]
-    }
+  "SOFA": {
+    "name": "소파",
+    "mid_code": "FUR_INT",
+    "mid_name": "가구/인테리어",
+    "top_code": "FUR",
+    "top_name": "가구",
+    "keywords": ["소파", "2인용", "가죽", "패브릭"]
+  },
+  "CHAIR": {
+    "name": "의자",
+    "mid_code": "FUR_INT",
+    "mid_name": "가구/인테리어",
+    "top_code": "FUR",
+    "top_name": "가구",
+    "keywords": ["의자", "책상 의자", "회의 의자", "등받이"]
+  },
+  "TABLE": {
+    "name": "테이블",
+    "mid_code": "FUR_INT",
+    "mid_name": "가구/인테리어",
+    "top_code": "FUR",
+    "top_name": "가구",
+    "keywords": ["테이블", "식탁", "사무용 테이블", "커피 테이블"]
+  },
+  "SHELF": {
+    "name": "선반",
+    "mid_code": "FUR_INT",
+    "mid_name": "가구/인테리어",
+    "top_code": "FUR",
+    "top_name": "가구",
+    "keywords": ["선반", "책장", "벽면 선반", "수납"]
+  },
+  "BED": {
+    "name": "침대",
+    "mid_code": "FUR_BED",
+    "mid_name": "침실가구",
+    "top_code": "FUR",
+    "top_name": "가구",
+    "keywords": ["침대", "더블침대", "싱글침대", "침구"]
+  },
+  "LIGHT": {
+    "name": "조명",
+    "mid_code": "INT_LIGHT",
+    "mid_name": "인테리어 소품",
+    "top_code": "INT",
+    "top_name": "인테리어",
+    "keywords": ["조명", "LED 조명", "테이블 램프", "야외 조명"]
+  },
+  "WALLPAPER": {
+    "name": "벽지",
+    "mid_code": "INT_WALL",
+    "mid_name": "인테리어 소품",
+    "top_code": "INT",
+    "top_name": "인테리어",
+    "keywords": ["벽지", "패턴 벽지", "실크 벽지", "벽지 디자인"]
   }
+}
